@@ -9,6 +9,9 @@ public class HelloSpringApplication {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
 
         //SpringApplication.run(HelloSpringApplication.class, args);
     }
